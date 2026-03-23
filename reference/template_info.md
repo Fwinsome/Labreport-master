@@ -2,7 +2,7 @@
 
 ## 模板路径
 
-`C:\Users\15pro\Downloads\ZJU-simpleLabReport-Typst-main`
+`[由用户在阶段一提供]`
 
 ## 预期表头结构
 
